@@ -52,6 +52,7 @@
      <Compile Include="Assets\Kees (Turn Touch)\Assets\TickPlaceGenerator.cs" />
      <Compile Include="Assets\Kees (Turn Touch)\Assets\TurnLock.cs" />
      <Compile Include="Assets\Kees (Turn Touch)\Assets\lockTrigger.cs" />
+     <Compile Include="Assets\Tim\Assets\Scripts\CountDownTimer.cs" />
      <Compile Include="Assets\Tim\Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Tim\Assets\Scripts\IngameInterface.cs" />
      <Compile Include="Assets\Tim\Assets\Scripts\MainMenu.cs" />
