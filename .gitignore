@@ -243,3 +243,5 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+BetterSafeThanSorry/Library/assetDatabase3
+BetterSafeThanSorry/Temp/__EditModeScene
