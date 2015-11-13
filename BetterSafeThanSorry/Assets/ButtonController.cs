@@ -15,7 +15,7 @@ public class ButtonController : MonoBehaviour {
 
     public void StartGame()
     {
-        //Application.LoadLevel("Play");
+        Application.LoadLevel(0);
     }
 
     public void QuitGame()
@@ -29,5 +29,10 @@ public class ButtonController : MonoBehaviour {
         #else
             Application.Quit();
         #endif
+    }
+
+    public void Help()
+    {
+        //Application.LoadLevel("Help");
     }
 }
