@@ -45,24 +45,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Andre\StepCounter.cs" />
+     <Compile Include="Assets\Andre\TurnTheLock.cs" />
      <Compile Include="Assets\ButtonController.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Custom Modules\SGexCosine.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Custom Modules\SGexSoften.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\BouncingBalls\Scripts\SGBall.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\BouncingBalls\Scripts\SGBallSpawner.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Compositions\Scripts\SGCompositionsMenu.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Monkey Business\Scripts\SGMonkeyBusiness.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Monkey Business\Scripts\SGMonkeyMixer.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\RealtimeAudioControls\Scripts\SGRealtimeAudioControls.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiCamera.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiDoorTrigger.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiLaser.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiPlayer.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiSignal.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\Sci-Fi\Scripts\SGSciFiTerribleIncomenentWeapon.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\SimplePlatformer\Scripts\SGSimplePlatformerCamera.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\SimplePlatformer\Scripts\SGSimplePlatformerCoin.cs" />
-     <Compile Include="Assets\DarkArts Studios\Sound Generator\Examples\Scenes\SimplePlatformer\Scripts\SGSimplePlatformerPlayer.cs" />
      <Compile Include="Assets\Kees (Turn Touch)\Assets\LockManager.cs" />
      <Compile Include="Assets\Kees (Turn Touch)\Assets\TickPlaceGenerator.cs" />
      <Compile Include="Assets\Kees (Turn Touch)\Assets\TurnLock.cs" />
@@ -75,9 +60,6 @@
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="DarkArtsStudios.SoundGenerator.Runtime">
- <HintPath>C:/Users/Rinke/Documents/BetterSafeThanSorry/BetterSafeThanSorry/Assets/DarkArts Studios/Sound Generator/DarkArtsStudios.SoundGenerator.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
