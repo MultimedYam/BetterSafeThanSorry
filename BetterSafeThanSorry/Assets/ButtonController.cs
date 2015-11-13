@@ -33,6 +33,11 @@ public class ButtonController : MonoBehaviour {
 
     public void Help()
     {
-        //Application.LoadLevel("Help");
+        Application.LoadLevel(2);
+    }
+
+    public void Back()
+    {
+             Application.LoadLevel(1);
     }
 }
